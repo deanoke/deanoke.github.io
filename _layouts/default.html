@@ -8,15 +8,38 @@
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- Theme default CSS -->
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-
 </head>
 <body>
 
-  <main class="page-body">
-    {{ content }}
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="header-brand">
+        <a href="{{ "/" | relative_url }}" class="brand-name">Dean Vun</a>
+        <div class="brand-tagline">
+          Operations Management &amp; Information Systems · Inventory Control
+        </div>
+      </div>
+      <nav class="header-nav">
+        <a href="{{ "/" | relative_url }}" class="nav-link{% if page.url == "/" %} active{% endif %}">Home</a>
+        <a href="{{ "/about/" | relative_url }}" class="nav-link{% if page.url contains "/about" %} active{% endif %}">About</a>
+        <a href="{{ "/resume/" | relative_url }}" class="nav-link{% if page.url contains "/resume" %} active{% endif %}">Resume</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main">
+    <div class="container">
+      {{ content }}
+    </div>
   </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span>&copy; {{ site.time | date: "%Y" }} Dean Vun</span>
+      <span class="footer-note">Portfolio &amp; Resume</span>
+    </div>
+  </footer>
 
 </body>
 </html>

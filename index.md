@@ -3,69 +3,74 @@ layout: default
 title: "Home"
 ---
 
-<div class="home">
-
-  <section class="home-hero hero">
-    <div class="hero-content">
+<section class="hero">
+  <div class="hero-grid">
+    <div class="hero-main">
       <h1 class="hero-title">Dean Vun</h1>
       <p class="hero-subtitle">
         Operations Management &amp; Information Systems · Inventory Control · Logistics &amp; Supply Chain
       </p>
       <p class="hero-tagline">
-        Bridging warehouse operations, enterprise systems, and data-driven project execution.
+        Experienced in leading WMS-driven operations, inventory control, and technology-enabled process improvements
+        across the logistics and supply chain industry.
       </p>
 
       <div class="hero-actions">
-        <a class="btn-primary" href="{{ '/resume/' | relative_url }}">View Resume</a>
-        <a class="btn-secondary" href="{{ '/about/' | relative_url }}">About Me</a>
+        <a class="btn-primary" href="{{ "/resume/" | relative_url }}">View Resume</a>
+        <a class="btn-outline" href="{{ "/about/" | relative_url }}">About Me</a>
       </div>
     </div>
-  </section>
 
-  <section class="home-section">
-    <h2 class="section-title">Profile</h2>
+    <aside class="hero-side">
+      <div class="hero-side-title">Snapshot</div>
+      <div class="hero-side-item">
+        <strong>Current Role:</strong> Senior Manager, Operations Management Information Systems &amp; Inventory Control
+        (FM Global Logistics)
+      </div>
+      <div class="hero-side-item">
+        <strong>Experience:</strong> Logistics, warehouse operations, WMS, EDI, and customer-facing operations since 2007
+      </div>
+      <div class="hero-side-item">
+        <strong>Location:</strong> Malaysia · Fluent in English &amp; Bahasa Melayu
+      </div>
+    </aside>
+  </div>
+</section>
+
+<section class="section">
+  <h2 class="section-title">Objective</h2>
+  <div class="section-body">
     <p>
-      Experienced Operations Management and Information Systems Manager with a strong track record in the logistics
-      and supply chain industry. Skilled in warehouse operations, inventory control, and project management, with a
-      demonstrated ability to design and run robust WMS-based environments and technology-enabled processes.
+      Experienced Operations Management and Information Systems Manager and Inventory Control specialist with a
+      demonstrated history of working in the logistics and supply chain industry and information systems. Seeking a
+      challenging career opportunity where I can leverage my skills in operations management, analytical thinking,
+      warehouse operations, information systems, and project management to drive performance and continuous
+      improvement.
     </p>
+  </div>
+</section>
+
+<section class="section">
+  <h2 class="section-title">Core Skills</h2>
+  <div class="chip-row">
+    <span class="chip">Operations Management</span>
+    <span class="chip">Warehouse &amp; Inventory Control</span>
+    <span class="chip">Information Systems</span>
+    <span class="chip">Project Management</span>
+    <span class="chip">WMS (Infor, Exceed)</span>
+    <span class="chip">Process Improvement</span>
+    <span class="chip">Analytical Skills</span>
+    <span class="chip">Business Continuity</span>
+  </div>
+</section>
+
+<section class="section">
+  <h2 class="section-title">Professional Focus</h2>
+  <div class="section-body">
     <p>
-      Adept at leading cross-functional teams, managing end-to-end implementations, and ensuring high system uptime,
-      data integrity, and operational excellence.
+      I specialise in bridging operational requirements with practical system design and implementation. This includes
+      working with warehouse management systems, leading cross-functional projects, and maintaining robust inventory
+      control frameworks that support accurate, reliable, and efficient operations.
     </p>
-  </section>
-
-  <section class="home-section">
-    <h2 class="section-title">Core Competencies</h2>
-    <div class="pill-row">
-      <span class="pill">Operations Management</span>
-      <span class="pill">Warehouse &amp; Inventory Control</span>
-      <span class="pill">Information Systems</span>
-      <span class="pill">Project Management</span>
-      <span class="pill">Logistics &amp; Supply Chain</span>
-      <span class="pill">Business Continuity</span>
-      <span class="pill">EDI &amp; WMS (Infor, Exceed)</span>
-    </div>
-  </section>
-
-  <section class="home-section">
-    <h2 class="section-title">Snapshot</h2>
-    <div class="two-column">
-      <div>
-        <h3 class="mini-heading">Current Role</h3>
-        <p>
-          Senior Manager, Operations Management Information Systems &amp; Inventory Control at
-          <strong>FM Global Logistics (M) Sdn. Bhd.</strong> (2011–Present).
-        </p>
-      </div>
-      <div>
-        <h3 class="mini-heading">Experience</h3>
-        <p>
-          Over a decade of experience spanning logistics optimization, WMS implementation, international shipping,
-          and financial services operations (HSBC EDP).
-        </p>
-      </div>
-    </div>
-  </section>
-
-</div>
+  </div>
+</section>
