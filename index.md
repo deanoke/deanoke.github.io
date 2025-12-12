@@ -5,7 +5,7 @@ title: "Home"
 
 <div class="hero">
   <div class="hero-content">
-    <h1 class="hero-title">Deano</h1>
+    <h1 class="hero-title">Dean Vun</h1>
     <p class="hero-subtitle">
       Operations Management &amp; Information Systems · Inventory Control · Logistics &amp; Supply Chain
     </p>
