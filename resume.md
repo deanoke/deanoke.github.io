@@ -12,7 +12,7 @@ permalink: /resume/
       Operations Management &amp; Information Systems Manager · Inventory Control · Logistics &amp; Supply Chain
     </p>
     <p class="resume-location">
-      Based in Malaysia · Fluent in English &amp; Bahasa Melayu
+      Based in Malaysia · Fluent in English &amp; Bahasa
     </p>
   </header>
 
@@ -169,21 +169,21 @@ permalink: /resume/
     <div class="education-item">
       <h3>Bachelor of Science in Computing (Hons)</h3>
       <p class="education-meta">
-        Staffordshire University (UK) – Kuala Lumpur, Malaysia · 2003
+        Staffordshire University (UK)
       </p>
     </div>
 
     <div class="education-item">
       <h3>UCLES A-Level</h3>
       <p class="education-meta">
-        Sunway University College, Malaysia · 1998
+        Sunway University College, Malaysia
       </p>
     </div>
 
     <div class="education-item">
       <h3>Sijil Pelajaran Malaysia (SPM)</h3>
       <p class="education-meta">
-        Sabah College, Malaysia · 1996
+        Sabah College, Malaysia
       </p>
     </div>
   </section>
@@ -202,30 +202,30 @@ permalink: /resume/
       <span class="pill">Reporting &amp; Analysis</span>
     </div>
     <p class="skills-note">
-      Fluent in English and Bahasa Melayu.
+      Fluent in English and Bahasa
     </p>
   </section>
 
   <section class="resume-section">
     <h2 class="section-title">Certifications &amp; Trainings</h2>
     <p>
-      Logistics Workshop, LEAN Management, and Six Sigma Training · 2011
+      Logistics Workshop, LEAN Management, and Six Sigma Training
     </p>
     <p>
-      ISO 9001:2000 and ISO 9001:2008 Training &amp; Workshop · 2010
+      ISO 9001:2000 and ISO 9001:2008 Training &amp; Workshop
     </p>
   </section>
 
   <section class="resume-section">
     <h2 class="section-title">Achievements</h2>
     <p>
-      Written compliments from HSBC for exemplary customer service in compliance with HSBC Global Policy (CCS &amp; BCS).
+      
     </p>
     <p>
-      HSBC Best Team Award for Consistent Performance · 2006
+      
     </p>
     <p>
-      HSBC Most Cheerful Award · 2006
+     
     </p>
   </section>
 
