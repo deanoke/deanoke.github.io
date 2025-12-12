@@ -7,7 +7,7 @@ permalink: /resume/
 <div class="page-resume">
 
   <header class="resume-header">
-    <h1>Deano</h1>
+    <h1>Dean Vun</h1>
     <p class="resume-role">
       Operations Management &amp; Information Systems Manager · Inventory Control · Logistics &amp; Supply Chain
     </p>
