@@ -219,22 +219,22 @@ permalink: /resume/
   <section class="resume-section">
     <h2 class="section-title">Achievements</h2>
     <p>
-      
+      .
     </p>
     <p>
-      
+      .
     </p>
     <p>
-     
+     .
     </p>
   </section>
 
   <section class="resume-section">
     <h2 class="section-title">Personal Traits</h2>
     <p>
-      Passion for continuous learning and personal growth. Strong cross-cultural communication skills and international
-      exposure. Highly motivated and driven, with a strong sense of responsibility, accountability, and a lively,
-      cheerful personality.
+      Passion for continuous learning and personal growth. 
+      Strong cross-cultural communication skills and international exposure. 
+      Highly motivated and driven, with a strong sense of responsibility, accountability, and a lively, cheerful personality.
     </p>
   </section>
 
