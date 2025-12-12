@@ -7,7 +7,7 @@ title: "Home"
   <div class="hero-content">
     <h1 class="hero-title">Deano</h1>
     <p class="hero-subtitle">
-      Operations Management &amp; Information Systems Manager · Inventory Control · Logistics &amp; Supply Chain
+      Operations Management &amp; Information Systems · Inventory Control · Logistics &amp; Supply Chain
     </p>
     <p class="hero-tagline">
       Bridging warehouse operations, enterprise systems, and data-driven project execution.
@@ -44,7 +44,7 @@ title: "Home"
       <span class="pill">Project Management</span>
       <span class="pill">Logistics &amp; Supply Chain</span>
       <span class="pill">Business Continuity</span>
-      <span class="pill">EDI &amp; WMS (Infor, Exceed)</span>
+      <span class="pill">EDI &amp; WMS Implementation</span>
     </div>
   </section>
 
@@ -55,14 +55,14 @@ title: "Home"
         <h3 class="mini-heading">Current Role</h3>
         <p>
           Senior Manager, Operations Management Information Systems &amp; Inventory Control at
-          <strong>FM Global Logistics (M) Sdn. Bhd.</strong> (2011–Present).
+          <strong>PLM</strong> (2011–Present).
         </p>
       </div>
       <div>
         <h3 class="mini-heading">Experience</h3>
         <p>
           Over a decade of experience spanning logistics optimization, WMS implementation, international shipping,
-          and financial services operations (HSBC EDP).
+          and financial services operations.
         </p>
       </div>
     </div>
