@@ -1,3 +1,25 @@
-title: "Deano CV"
-description: "Professional Profile"
-theme: jekyll-theme-cayman
+title: "Deano | Operations & Information Systems"
+description: "Portfolio & Resume"
+url: "https://deanoke.github.io"
+
+theme: jekyll-theme-minimal
+
+# Show these pages in the top navigation bar
+header_pages:
+  - about.md
+  - resume.md
+
+# Basic metadata
+author:
+  name: "Deano"
+  email: ""
+  location: "Malaysia"
+  role: "Senior Manager – Operations Management & Information Systems"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Optional: GitHub Pages–supported plugins (safe to leave as-is)
+plugins:
+  - jekyll-seo-tag
