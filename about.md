@@ -6,7 +6,7 @@ permalink: /about/
 
 <div class="page-about">
 
-  <h1>About Deano</h1>
+  <h1>About Dean Vun</h1>
 
   <p>
     I am an Operations Management and Information Systems professional with extensive hands-on experience in
